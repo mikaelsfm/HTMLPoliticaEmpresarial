@@ -58,8 +58,6 @@
             <img src="caminho/para/imagem-do-produto.jpg" alt="Descrição do Produto">
             <h2>Whatsapp Bot</h2>
             <p>Bot para converter de imagem para stickers</p>
-        </section>
-        <section>
             <h1>Política de Privacidade</h1>
             <p>Última atualização: [Data]</p>
             <h2>1. Informações Coletadas</h2>
