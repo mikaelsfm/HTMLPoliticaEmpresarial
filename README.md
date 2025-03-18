@@ -59,6 +59,20 @@
             <h2>Whatsapp Bot</h2>
             <p>Bot para converter de imagem para stickers</p>
         </section>
+        <section>
+            <h1>Política de Privacidade</h1>
+            <p>Última atualização: [Data]</p>
+            <h2>1. Informações Coletadas</h2>
+            <p>Coletamos informações como nome, e-mail e dados de uso para melhorar nossos serviços.</p>
+            <h2>2. Uso das Informações</h2>
+            <p>As informações coletadas são utilizadas para fornecer e aprimorar nossos serviços, além de cumprir exigências legais.</p>
+            <h2>3. Compartilhamento de Dados</h2>
+            <p>Podemos compartilhar dados com parceiros conforme necessário para o funcionamento do serviço, respeitando as políticas da Meta.</p>
+            <h2>4. Segurança</h2>
+            <p>Implementamos medidas de segurança para proteger os dados coletados.</p>
+            <h2>5. Contato</h2>
+            <p>Para dúvidas sobre esta política, entre em contato pelo e-mail: contato@seudominio.com</p>
+        </section>
     </main>
     <footer>
         <p>&copy; 2025 Minha Empresa. Todos os direitos reservados.</p>
